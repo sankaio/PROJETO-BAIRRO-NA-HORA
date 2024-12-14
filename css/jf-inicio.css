@@ -223,7 +223,7 @@ button:hover {
     position: absolute;
     display: inline-block;
     top: 70%;
-    left: 50%;
+    left: 40%;
     right: 5%;
     bottom: 15%;
     transform: translate(-50%, -50%);
