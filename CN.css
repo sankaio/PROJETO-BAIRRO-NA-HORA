@@ -6,7 +6,7 @@ body {
 }
 
 .header2 {
-    background: #1e90ff;
+    background: #002f6c;
     padding: 15px 0;
     text-align: center;
     color: white;
@@ -57,7 +57,7 @@ body {
 }
 
 .menu a:hover, .menu .active {
-    background: #4169e1;
+    background: #002f6c;
     border-radius: 3px;
 }
 
@@ -123,7 +123,7 @@ img {
 
 .tag {
     display: inline-block;
-    background: #1e90ff;
+    background: #002f6c;
     color: white;
     padding: 5px 10px;
     margin: 0 5px 5px 0;
@@ -132,7 +132,7 @@ img {
 }
 
 .footer {
-    background: #1e90ff;
+    background: #002f6c;
     color: white;
     padding: 40px 0 20px;
     text-align: center;
@@ -186,7 +186,7 @@ img {
 }
 
 .footer-section button:hover {
-    background: #1e90ff;
+    background: #002f6c;
 }
 
 .linha-final {

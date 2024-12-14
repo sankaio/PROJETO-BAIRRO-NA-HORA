@@ -6,7 +6,7 @@
 }
 
 .header2 {
-    background: #1e90ff;
+    background: #002f6c;
     padding: 15px 0;
     text-align: center; /* Added for centering */
 }
@@ -50,7 +50,7 @@
 }
 
 .menu a:hover, .menu .active {
-    background: #4169e1;
+    background: #002f6c;
     border-radius: 3px;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .footer {
-    background: #1e90ff;
+    background: #002f6c;
     color: white;
     padding: 40px 0 20px;
     text-align: center; /* Added for centering */
@@ -124,7 +124,7 @@
 }
 
 .footer-section button {
-    background: #4169e1;
+    background: #002f6c;
     border: none;
     padding: 10px 20px;
     margin-top: 10px;
@@ -133,7 +133,7 @@
 }
 
 .footer-section button:hover {
-    background: #1e90ff;
+    background: #002f6c;
 }
 
 .linha-final {
